@@ -27,6 +27,10 @@ wcwidth==0.2.13
 ## Примерный вид веб-приложения:
 <picture>
 <img src="photo/Снимок экрана от 2025-05-04 13-07-08.png" width=300 hieght=300/>
+</picture>
+<picture>
 <img src="photo/Снимок экрана от 2025-05-04 13-07-32.png" width=300 hieght=300/>
+</picture>
+<picture>
 <img src="photo/Снимок экрана от 2025-05-04 13-08-04.png" width=300 hieght=300/>
 </picture>
