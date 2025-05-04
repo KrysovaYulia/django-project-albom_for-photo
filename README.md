@@ -25,6 +25,6 @@ typing_extensions==4.13.2
 wcwidth==0.2.13
 
 ## Примерный вид веб-приложения:
-<img src="/home/yu/vs_code_linux/project_album_django/photo/Снимок экрана от 2025-05-04 13-07-08.png" width=300 hieght=300>
-<img src="/home/yu/vs_code_linux/project_album_django/photo/Снимок экрана от 2025-05-04 13-07-32.png" width=300 hieght=300>
-<img src="/home/yu/vs_code_linux/project_album_django/photo/Снимок экрана от 2025-05-04 13-08-04.png" width=300 hieght=300>
+<img src="[/home/yu/vs_code_linux/project_album_django/photo/Снимок экрана от 2025-05-04 13-07-08.png](https://github.com/KrysovaYulia/django-project-albom_for-photo/blob/main/photo/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-05-04%2013-07-08.png)" width=300 hieght=300>
+<img src="[/home/yu/vs_code_linux/project_album_django/photo/Снимок экрана от 2025-05-04 13-07-32.png](https://github.com/KrysovaYulia/django-project-albom_for-photo/blob/main/photo/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-05-04%2013-07-08.png)" width=300 hieght=300>
+<img src="[/home/yu/vs_code_linux/project_album_django/photo/Снимок экрана от 2025-05-04 13-08-04.png](https://github.com/KrysovaYulia/django-project-albom_for-photo/blob/main/photo/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-05-04%2013-08-04.png)" width=300 hieght=300>
